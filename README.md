@@ -2,7 +2,7 @@
 A modern shadertoy client with additional features.
 
 
-⚠️ DEVELOPMENT SUSPENDED INDEFINITELY ⚠️
+# ⚠️ DEVELOPMENT SUSPENDED INDEFINITELY ⚠️
 
 The site is not being developed further. Due to AI scraping, shadertoy has been forced to implement cloudflare protection which renders this project inoperable. Do not read on unless you want to be sad about what we lost :(
 
